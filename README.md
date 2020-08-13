@@ -3,3 +3,5 @@
 nodemailer 
 
 node-corn job
+
+node-html-pdf
